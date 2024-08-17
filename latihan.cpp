@@ -26,6 +26,6 @@ int main(){
     } else{
         cout << "NO";
     }
-
+kaokwokow
     
 }s
